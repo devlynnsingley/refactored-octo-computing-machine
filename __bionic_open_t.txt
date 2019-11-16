@@ -1,0 +1,574 @@
+__bionic_open_tzdata: couldn't find any tzdata when looking for localtime!
+__bionic_open_tzdata: couldn't find any tzdata when looking for GMT!
+__bionic_open_tzdata: couldn't find any tzdata when looking for posixrules!
+2016.12.13 09:51:30  : Starting recovery (pid 134) on Tue Dec 13 09:51:30 2016
+Can't find mtd partition ubipac
+recovery filesystem table
+=========================
+  0 /storage/sdcard0 vfat /dev/block/platform/sdio_sd/mmcblk1p1 0
+  1 /system ext4 /dev/block/platform/sdio_emmc/by-name/system 0
+  2 /data ext4 /dev/block/platform/sdio_emmc/by-name/userdata 0
+  3 /cache ext4 /dev/block/platform/sdio_emmc/by-name/cache 0
+  4 /misc emmc /dev/block/platform/sdio_emmc/by-name/misc 0
+  5 /boot emmc /dev/block/platform/sdio_emmc/by-name/boot 0
+  6 /recovery emmc /dev/block/platform/sdio_emmc/by-name/recovery 0
+  7 /tdmodem emmc /dev/block/platform/sdio_emmc/by-name/tdmodem 0
+  8 /tddsp emmc /dev/block/platform/sdio_emmc/by-name/tddsp 0
+  9 /tdfixnv1 emmc /dev/block/platform/sdio_emmc/by-name/tdfixnv1 0
+  10 /tdfixnv2 emmc /dev/block/platform/sdio_emmc/by-name/tdfixnv2 0
+  11 /tdruntimenv1 emmc /dev/block/platform/sdio_emmc/by-name/tdruntimenv1 0
+  12 /tdruntimenv2 emmc /dev/block/platform/sdio_emmc/by-name/tdruntimenv2 0
+  13 /ltemodem emmc /dev/block/platform/sdio_emmc/by-name/l_modem 0
+  14 /ltedsp emmc /dev/block/platform/sdio_emmc/by-name/l_ldsp 0
+  15 /ltefixnv1 emmc /dev/block/platform/sdio_emmc/by-name/l_fixnv1 0
+  16 /ltefixnv2 emmc /dev/block/platform/sdio_emmc/by-name/l_fixnv2 0
+  17 /lteruntimenv1 emmc /dev/block/platform/sdio_emmc/by-name/l_runtimenv1 0
+  18 /lteruntimenv2 emmc /dev/block/platform/sdio_emmc/by-name/l_runtimenv2 0
+  19 /lfmodem emmc /dev/block/platform/sdio_emmc/by-name/lf_modem 0
+  20 /lfwarm emmc /dev/block/platform/sdio_emmc/by-name/lf_warm 0
+  21 /lfgdsp emmc /dev/block/platform/sdio_emmc/by-name/lf_gdsp 0
+  22 /lfldsp emmc /dev/block/platform/sdio_emmc/by-name/lf_ldsp 0
+  23 /lffixnv1 emmc /dev/block/platform/sdio_emmc/by-name/lf_fixnv1 0
+  24 /lffixnv2 emmc /dev/block/platform/sdio_emmc/by-name/lf_fixnv2 0
+  25 /lfruntimenv1 emmc /dev/block/platform/sdio_emmc/by-name/lf_runtimenv1 0
+  26 /lfruntimenv2 emmc /dev/block/platform/sdio_emmc/by-name/lf_runtimenv2 0
+  27 /tlmodem emmc /dev/block/platform/sdio_emmc/by-name/tl_modem 0
+  28 /tltdsp emmc /dev/block/platform/sdio_emmc/by-name/tl_tdsp 0
+  29 /tlldsp emmc /dev/block/platform/sdio_emmc/by-name/tl_ldsp 0
+  30 /tlfixnv1 emmc /dev/block/platform/sdio_emmc/by-name/tl_fixnv1 0
+  31 /tlfixnv2 emmc /dev/block/platform/sdio_emmc/by-name/tl_fixnv2 0
+  32 /tlruntimenv1 emmc /dev/block/platform/sdio_emmc/by-name/tl_runtimenv1 0
+  33 /tlruntimenv2 emmc /dev/block/platform/sdio_emmc/by-name/tl_runtimenv2 0
+  34 /wmodem emmc /dev/block/platform/sdio_emmc/by-name/wmodem 0
+  35 /wdsp emmc /dev/block/platform/sdio_emmc/by-name/wdsp 0
+  36 /wfixnv1 emmc /dev/block/platform/sdio_emmc/by-name/wfixnv1 0
+  37 /wfixnv2 emmc /dev/block/platform/sdio_emmc/by-name/wfixnv2 0
+  38 /wruntimenv1 emmc /dev/block/platform/sdio_emmc/by-name/wruntimenv1 0
+  39 /wruntimenv2 emmc /dev/block/platform/sdio_emmc/by-name/wruntimenv2 0
+  40 /wcnfixnv1 emmc /dev/block/platform/sdio_emmc/by-name/wcnfixnv1 0
+  41 /wcnfixnv2 emmc /dev/block/platform/sdio_emmc/by-name/wcnfixnv2 0
+  42 /wcnruntimenv1 emmc /dev/block/platform/sdio_emmc/by-name/wcnruntimenv1 0
+  43 /wcnruntimenv2 emmc /dev/block/platform/sdio_emmc/by-name/wcnruntimenv2 0
+  44 /wcnmodem emmc /dev/block/platform/sdio_emmc/by-name/wcnmodem 0
+  45 /productinfo ext4 /dev/block/platform/sdio_emmc/by-name/prodnv 0
+  46 /oem ext4 /dev/block/platform/sdio_emmc/by-name/oem 0
+  47 /logo emmc /dev/block/platform/sdio_emmc/by-name/logo 0
+  48 /fbootlogo emmc /dev/block/platform/sdio_emmc/by-name/fbootlogo 0
+  49 /systeminfo ext4 /dev/block/platform/sdio_emmc/by-name/sysinfo 0
+  50 /uboot emmc /dev/block/mmcblk0boot1 0
+  51 /spl emmc /dev/block/mmcblk0boot0 0
+  52 /tmp ramdisk ramdisk 0
+
+I:Got arguments from /cache/recovery/command
+2016.12.13 09:51:31  : locale is [en_US]
+2016.12.13 09:51:31  : stage is []
+2016.12.13 09:51:31  : reason is [(null)]
+bit_depth:8,*channels:1,color_type:0
+can't open /dev/tty0: No such file or directory
+fb0 reports (possibly inaccurate):
+  vi.bits_per_pixel = 32
+  vi.red.offset   =  16   .length =   8
+  vi.green.offset =   8   .length =   8
+  vi.blue.offset  =   0   .length =   8
+in fbdev_init: ro.sf.hwrotation=0
+framebuffer: 0 (480 x 800)
+ioctl(): blank: Invalid argument
+ioctl(): blank: Invalid argument
+bit_depth:8,*channels:1,color_type:3
+  found frames = 7
+bit_depth:8,*channels:1,color_type:3
+bit_depth:8,*channels:3,color_type:2
+bit_depth:8,*channels:3,color_type:2
+bit_depth:8,*channels:1,color_type:0
+bit_depth:8,*channels:1,color_type:0
+bit_depth:8,*channels:1,color_type:0
+       installing_text: en (277 x 33 @ 374)
+bit_depth:8,*channels:1,color_type:0
+          erasing_text: en (95 x 33 @ 374)
+bit_depth:8,*channels:1,color_type:0
+       no_command_text: en (150 x 33 @ 374)
+bit_depth:8,*channels:1,color_type:0
+            error_text: en (57 x 33 @ 374)
+2016.12.13 09:51:31  : Command:2016.12.13 09:51:31  :  "/sbin/recovery"2016.12.13 09:51:31  :  "--update_package=@/cache/recovery/block.map"2016.12.13 09:51:31  :  "--locale=en_US"2016.12.13 09:51:31  : 
+2016.12.13 09:51:31  : update_package is @/cache/recovery/block.map
+2016.12.13 09:51:31  : 
+2016.12.13 09:51:31  : ro.sf.lcd_width=54
+2016.12.13 09:51:31  : ro.sf.hwrotation=0
+2016.12.13 09:51:31  : ro.sf.lcd_height=96
+2016.12.13 09:51:31  : ro.sf.lcd_density=240
+2016.12.13 09:51:31  : ro.adb.secure=1
+2016.12.13 09:51:31  : ro.com.google.gmsversion=5.1_r3
+2016.12.13 09:51:31  : ro.com.android.dateformat=MM-dd-yyyy
+2016.12.13 09:51:31  : ro.com.android.dataroaming=false
+2016.12.13 09:51:31  : ro.frp.pst=/dev/block/platform/sdio_emmc/by-name/persist
+2016.12.13 09:51:31  : ro.boot.serialno=37569106179214
+2016.12.13 09:51:31  : ro.fota.oem=fortuneship57731_5.1
+2016.12.13 09:51:31  : ro.fota.type=phone
+2016.12.13 09:51:31  : ro.fota.device=AM402
+2016.12.13 09:51:31  : ro.fota.version=AM402_HN_AMGOO_V11_20161108
+2016.12.13 09:51:31  : ro.fota.platform=Sprd7731_5.1
+2016.12.13 09:51:31  : ro.msms.phone_count=2
+2016.12.13 09:51:31  : ro.wifi.channels=
+2016.12.13 09:51:31  : ro.allow.mock.location=0
+2016.12.13 09:51:31  : ro.board.platform=sc8830
+2016.12.13 09:51:31  : ro.build.id=LMY47D
+2016.12.13 09:51:31  : ro.build.date=Tue Nov  8 17:17:26 CST 2016
+2016.12.13 09:51:31  : ro.build.date.utc=1478596646
+2016.12.13 09:51:31  : ro.build.host=adminroot-PowerEdge-T630
+2016.12.13 09:51:31  : ro.build.tags=release-keys
+2016.12.13 09:51:31  : ro.build.type=user
+2016.12.13 09:51:31  : ro.build.user=zwenhua
+2016.12.13 09:51:31  : ro.build.flavor=rs613-user
+2016.12.13 09:51:31  : ro.build.display.id=AM402_HN_AMGOO_V11_20161108
+2016.12.13 09:51:31  : ro.build.product=rs613
+2016.12.13 09:51:31  : ro.build.version.sdk=22
+2016.12.13 09:51:31  : ro.build.version.base_os=
+2016.12.13 09:51:31  : ro.build.version.release=5.1
+2016.12.13 09:51:31  : ro.build.version.codename=REL
+2016.12.13 09:51:31  : ro.build.version.internal=RS613_AMGOO_AM402_V14_20161108
+2016.12.13 09:51:31  : ro.build.version.incremental=eng.zwenhua.20161108.171644
+2016.12.13 09:51:31  : ro.build.version.all_codenames=REL
+2016.12.13 09:51:31  : ro.build.version.security_patch=2015-11-01
+2016.12.13 09:51:31  : ro.build.description=rs613-user 5.1 LMY47D eng.zwenhua.20161108.171644 release-keys
+2016.12.13 09:51:31  : ro.build.fingerprint=SPRD/rs613/rs613:5.1/LMY47D/11081717:user/release-keys
+2016.12.13 09:51:31  : ro.build.characteristics=default
+2016.12.13 09:51:31  : ro.modem.w.id=0
+2016.12.13 09:51:31  : ro.modem.w.nv=/dev/spipe_w1
+2016.12.13 09:51:31  : ro.modem.w.dev=/proc/cpw/
+2016.12.13 09:51:31  : ro.modem.w.eth=seth_w
+2016.12.13 09:51:31  : ro.modem.w.log=/dev/slog_w
+2016.12.13 09:51:31  : ro.modem.w.snd=1
+2016.12.13 09:51:31  : ro.modem.w.tty=/dev/stty_w
+2016.12.13 09:51:31  : ro.modem.w.vbc=/dev/spipe_w6
+2016.12.13 09:51:31  : ro.modem.w.diag=/dev/slog_w
+2016.12.13 09:51:31  : ro.modem.w.loop=/dev/spipe_w0
+2016.12.13 09:51:31  : ro.modem.w.count=2
+2016.12.13 09:51:31  : ro.modem.w.assert=/dev/spipe_w2
+2016.12.13 09:51:31  : ro.modem.w.fixnv_size=0x40000
+2016.12.13 09:51:31  : ro.modem.w.runnv_size=0x60000
+2016.12.13 09:51:31  : ro.modem.wcn.id=1
+2016.12.13 09:51:31  : ro.modem.wcn.dev=/dev/cpwcn
+2016.12.13 09:51:31  : ro.modem.wcn.tty=/deiv/stty_wcn
+2016.12.13 09:51:31  : ro.modem.wcn.diag=/dev/slog_wcn
+2016.12.13 09:51:31  : ro.modem.wcn.count=1
+2016.12.13 09:51:31  : ro.modem.wcn.assert=/dev/spipe_wcn2
+2016.12.13 09:51:31  : ro.modem.wcn.enable=1
+2016.12.13 09:51:31  : ro.config.ksm.support=true
+2016.12.13 09:51:31  : ro.config.zram.support=true
+2016.12.13 09:51:31  : ro.config.low_ram=true
+2016.12.13 09:51:31  : ro.config.ringtone=Ring_Synth_04.ogg
+2016.12.13 09:51:31  : ro.config.alarm_alert=Alarm_Classic.ogg
+2016.12.13 09:51:31  : ro.config.notification_sound=pixiedust.ogg
+2016.12.13 09:51:31  : ro.dalvik.vm.native.bridge=0
+2016.12.13 09:51:31  : ro.secure=1
+2016.12.13 09:51:31  : ro.zygote=zygote32
+2016.12.13 09:51:31  : ro.carrier=unknown
+2016.12.13 09:51:31  : ro.digital.fm.support=1
+2016.12.13 09:51:31  : ro.hotspot.enabled=1
+2016.12.13 09:51:31  : ro.product.cpu.abi=armeabi-v7a
+2016.12.13 09:51:31  : ro.product.cpu.abi2=armeabi
+2016.12.13 09:51:31  : ro.product.cpu.abilist=armeabi-v7a,armeabi
+2016.12.13 09:51:31  : ro.product.cpu.abilist32=armeabi-v7a,armeabi
+2016.12.13 09:51:31  : ro.product.cpu.abilist64=
+2016.12.13 09:51:31  : ro.product.ram=low
+2016.12.13 09:51:31  : ro.product.name=AM402
+2016.12.13 09:51:31  : ro.product.board=AM402
+2016.12.13 09:51:31  : ro.product.brand=AMGOO
+2016.12.13 09:51:31  : ro.product.model=AM402
+2016.12.13 09:51:31  : ro.product.device=AM402
+2016.12.13 09:51:31  : ro.product.locale.region=ES
+2016.12.13 09:51:31  : ro.product.locale.language=es
+2016.12.13 09:51:31  : ro.product.hardware=SP7720EA_V1.0.0
+2016.12.13 09:51:31  : ro.product.manufacturer=AMGOO
+2016.12.13 09:51:31  : ro.product.partitionpath=/dev/block/platform/sdio_emmc/by-name/
+2016.12.13 09:51:31  : ro.simlock.onekey.lock=0
+2016.12.13 09:51:31  : ro.simlock.unlock.autoshow=1
+2016.12.13 09:51:31  : ro.storage.flash_type=2
+2016.12.13 09:51:31  : ro.storage.install2internal=0
+2016.12.13 09:51:31  : ro.wifip2p.coexist=false
+2016.12.13 09:51:31  : ro.baseband=unknown
+2016.12.13 09:51:31  : ro.bootmode=unknown
+2016.12.13 09:51:31  : ro.hardware=sc7731c
+2016.12.13 09:51:31  : ro.opengles.version=131072
+2016.12.13 09:51:31  : ro.revision=0
+2016.12.13 09:51:31  : ro.serialno=37569106179214
+2016.12.13 09:51:31  : ro.bootloader=unknown
+2016.12.13 09:51:31  : ro.debuggable=0
+2016.12.13 09:51:31  : ro.factorytest=0
+2016.12.13 09:51:31  : ro.setupwizard.mode=OPTIONAL
+2016.12.13 09:51:31  : ro.btwifisoftap.coexist=false
+2016.12.13 09:51:31  : ro.board_ram_size=mid
+2016.12.13 09:51:31  : drm.service.enabled=true
+2016.12.13 09:51:31  : lmk.autocalc=false
+2016.12.13 09:51:31  : net.bt.name=Android
+2016.12.13 09:51:31  : net.change=net.bt.name
+2016.12.13 09:51:31  : sys.usb.gser.count=4
+2016.12.13 09:51:31  : sys.usb.state=adb,vser,gser
+2016.12.13 09:51:31  : sys.usb.config=adb,vser,gser
+2016.12.13 09:51:31  : sys.kill.frontapp=true
+2016.12.13 09:51:31  : sys.tempsd.enable=1
+2016.12.13 09:51:31  : sys.internal.emulated=1
+2016.12.13 09:51:31  : cfzz.launcher.disable.white.bg=true
+2016.12.13 09:51:31  : conn.connectivity_change_delay=0
+2016.12.13 09:51:31  : init.svc.adbd=running
+2016.12.13 09:51:31  : init.svc.healthd=running
+2016.12.13 09:51:31  : init.svc.ueventd=running
+2016.12.13 09:51:31  : init.svc.recovery=running
+2016.12.13 09:51:31  : debug.bt.lowspeed=110
+2016.12.13 09:51:31  : debug.hwui.render_dirty_regions=false
+2016.12.13 09:51:31  : camera.disable_zsl_mode=1
+2016.12.13 09:51:31  : dalvik.vm.isa.arm.features=div
+2016.12.13 09:51:31  : dalvik.vm.heapsize=128m
+2016.12.13 09:51:31  : dalvik.vm.dex2oat-Xms=64m
+2016.12.13 09:51:31  : dalvik.vm.dex2oat-Xmx=512m
+2016.12.13 09:51:31  : dalvik.vm.heapmaxfree=2m
+2016.12.13 09:51:31  : dalvik.vm.heapminfree=512k
+2016.12.13 09:51:31  : dalvik.vm.heapstartsize=5m
+2016.12.13 09:51:31  : dalvik.vm.heapgrowthlimit=48m
+2016.12.13 09:51:31  : dalvik.vm.stack-trace-file=/data/anr/traces.txt
+2016.12.13 09:51:31  : dalvik.vm.image-dex2oat-Xms=64m
+2016.12.13 09:51:31  : dalvik.vm.image-dex2oat-Xmx=64m
+2016.12.13 09:51:31  : dalvik.vm.heaptargetutilization=0.75
+2016.12.13 09:51:31  : persist.ini.connectivity.prodnv=0
+2016.12.13 09:51:31  : persist.sys.apr.testgroup=CSSLAB
+2016.12.13 09:51:31  : persist.sys.apr.autoupload=1
+2016.12.13 09:51:31  : persist.sys.apr.intervaltime=1
+2016.12.13 09:51:31  : persist.sys.cam.gif=false
+2016.12.13 09:51:31  : persist.sys.cam.scenery=false
+2016.12.13 09:51:31  : persist.sys.cam.vgesture=false
+2016.12.13 09:51:31  : persist.sys.cam.timestamp=true
+2016.12.13 09:51:31  : persist.sys.cam.wideangle=true
+2016.12.13 09:51:31  : persist.sys.usb.config=mass_storage
+2016.12.13 09:51:31  : persist.sys.sprd.wcnreset=1
+2016.12.13 09:51:31  : persist.sys.sprd.modemreset=1
+2016.12.13 09:51:31  : persist.sys.ucam.all=true
+2016.12.13 09:51:31  : persist.sys.ucam.edit=true
+2016.12.13 09:51:31  : persist.sys.ucam.beauty=true
+2016.12.13 09:51:31  : persist.sys.ucam.filter=true
+2016.12.13 09:51:31  : persist.sys.ucam.puzzle=true
+2016.12.13 09:51:31  : persist.sys.engpc.disable=1
+2016.12.13 09:51:31  : persist.sys.modem.diag=,gser
+2016.12.13 09:51:31  : persist.sys.dalvik.vm.lib.2=libart.so
+2016.12.13 09:51:31  : persist.sys.support.vt=true
+2016.12.13 09:51:31  : persist.sys.support.pls_epl=false
+2016.12.13 09:51:31  : persist.sys.reload_oem=0
+2016.12.13 09:51:31  : persist.msms.phone_count=2
+2016.12.13 09:51:31  : persist.msms.phone_default=0
+2016.12.13 09:51:31  : persist.modem.w.nvp=w
+2016.12.13 09:51:31  : persist.modem.w.enable=1
+2016.12.13 09:51:31  : persist.radio.multisim.config=dsds
+2016.12.13 09:51:31  : persist.ttydev=ttyVUART0
+2016.12.13 09:51:31  : persist.service.agps.network=4g
+2016.12.13 09:51:31  : persist.storage.type=1
+2016.12.13 09:51:31  : keyguard.no_require_sim=true
+2016.12.13 09:51:31  : 
+Finding update package...
+I:Update location: @/cache/recovery/block.map
+Opening update package...
+sysutil: mmapped 2 ranges
+I:read key e=65537 hash=20
+I:1 key(s) loaded from /res/keys
+Verifying update package...
+I:comment is 1404 bytes; signature 1386 bytes from end
+I:whole-file signature verified against RSA key 0
+I:verify_file returned 0
+Installing update...
+sysutil: mmapped 2 ranges
+Verifying current system...
+partition read matched size 8871936 sha f8e2dfecd085ee1cde97266c10bc482f0f809ade
+150294528 bytes free on /cache (82339988 needed)
+PackageExtractFileFn :: sleeping after close
+PackageExtractFileFn :: sleeping after close
+Verifying current system...
+write_raw_image: WriteRawImageFn argc is 3 
+Patching current system...
+write_raw_image: WriteRawImageFn (/dev/block/mmcblk0boot1, EMMC) 
+write_raw_image: write_emmc_or_ubi_image <EMMC> to [/dev/block/mmcblk0boot1]
+write u-boot.bin to partition /uboot ....
+sleeping after close
+write_raw_image: return 1 from write_emmc_or_ubi_image <EMMC> to [/dev/block/mmcblk0boot1]
+wrote /dev/block/mmcblk0boot1 partition
+Removing unneeded files...
+patch /system/app/ApnSettingsPlugin/ApnSettingsPlugin.apk: Patching system files...
+now 301ec288
+patch /system/app/BasicDreams/BasicDreams.apk: now 2e480ca9
+patch /system/app/BasicDreams/arm/BasicDreams.odex: now a658ae20
+patch /system/app/Bluetooth/Bluetooth.apk: now 34de2c15
+patch /system/app/Bluetooth/arm/Bluetooth.odex: now fedb671e
+patch /system/app/Browser/Browser.apk: now 05b6db09
+patch /system/app/Browser/arm/Browser.odex: now f99e6207
+patch /system/app/Calculator/Calculator.apk: now 02ee0f17
+patch /system/app/Calculator/arm/Calculator.odex: now a346422a
+patch /system/app/Calendar/Calendar.apk: now 71cbb150
+patch /system/app/Calendar/arm/Calendar.odex: now a39b98ba
+patch /system/app/CallFirewallPlugin_phone/CallFirewallPlugin_phone.apk: now e23093b4
+patch /system/app/CallFirewallPlugin_phone/arm/CallFirewallPlugin_phone.odex: now d3c66e1b
+patch /system/app/CallFirewallPlugin_sms/CallFirewallPlugin_sms.apk: now 5f4916cf
+patch /system/app/CallFirewallPlugin_sms/arm/CallFirewallPlugin_sms.odex: now 5f178470
+patch /system/app/Camera2/Camera2.apk: now ea28ba4e
+patch /system/app/Camera2/arm/Camera2.odex: now 9214a5c4
+patch /system/app/CaptivePortalLogin/CaptivePortalLogin.apk: now aa3b4798
+patch /system/app/CaptivePortalLogin/arm/CaptivePortalLogin.odex: now 9e9a9368
+patch /system/app/CertInstaller/CertInstaller.apk: now b8a17eff
+patch /system/app/CertInstaller/arm/CertInstaller.odex: now 04ada2c0
+patch /system/app/ConfigUpdater/arm/ConfigUpdater.odex: now ff671bcb
+patch /system/app/DeskClock/DeskClock.apk: now 33403175
+patch /system/app/DeskClock/arm/DeskClock.odex: now 221a93d9
+patch /system/app/DocumentsUI/DocumentsUI.apk: now 8b6c8ed3
+patch /system/app/DocumentsUI/arm/DocumentsUI.odex: now 823919a1
+patch /system/app/DownloadProviderUi/DownloadProviderUi.apk: now 776882b2
+patch /system/app/DownloadProviderUi/arm/DownloadProviderUi.odex: now 1934b1de
+patch /system/app/Email/Email.apk: now db3e2a73
+patch /system/app/Email/arm/Email.odex: now 40bfce52
+patch /system/app/EngineerMode/EngineerMode.apk: now abd26bcd
+patch /system/app/EngineerMode/arm/EngineerMode.odex: now d3c5d731
+patch /system/app/Exchange2/Exchange2.apk: now a678d6a9
+patch /system/app/Exchange2/arm/Exchange2.odex: now 863f347f
+patch /system/app/FMPlayer/FMPlayer.apk: now 2e566506
+patch /system/app/FMPlayer/arm/FMPlayer.odex: now dfae3ef6
+patch /system/app/FaceLock/arm/FaceLock.odex: now 97e05a25
+patch /system/app/FileExplorer/FileExplorer.apk: now 83a90a0d
+patch /system/app/FileExplorer/arm/FileExplorer.odex: now 843f977e
+patch /system/app/FotaUpdate/arm/FotaUpdate.odex: now 838ffa28
+patch /system/app/Galaxy4/arm/Galaxy4.odex: now 3122dbea
+patch /system/app/Gallery2/Gallery2.apk: now 73aa3171
+patch /system/app/GlobalConfigProvider/GlobalConfigProvider.apk: now 6e45e71a
+patch /system/app/GlobalConfigProvider/arm/GlobalConfigProvider.odex: now 7ff963e3
+patch /system/app/Gmail2/arm/Gmail2.odex: now 61d0d85b
+patch /system/app/GoogleCalendarSyncAdapter/arm/GoogleCalendarSyncAdapter.odex: now a7abb60c
+patch /system/app/GoogleContactsSyncAdapter/arm/GoogleContactsSyncAdapter.odex: now e2ab24ec
+patch /system/app/HTMLViewer/HTMLViewer.apk: now 6c3f30d1
+patch /system/app/HTMLViewer/arm/HTMLViewer.odex: now 8d29f216
+patch /system/app/HeartbeatSyncSettings/HeartbeatSyncSettings.apk: now 6a68a130
+patch /system/app/HeartbeatSyncSettings/arm/HeartbeatSyncSettings.odex: now 2285795d
+patch /system/app/HoloSpiralWallpaper/HoloSpiralWallpaper.apk: now fbc8f8bc
+patch /system/app/HoloSpiralWallpaper/arm/HoloSpiralWallpaper.odex: now 741c34d8
+patch /system/app/KeyChain/KeyChain.apk: now d4c36078
+patch /system/app/KeyChain/arm/KeyChain.odex: now f94b29fb
+patch /system/app/LatinIME/LatinIME.apk: now 703bb59f
+patch /system/app/LatinIME/arm/LatinIME.odex: now 9e8afd05
+patch /system/app/Launcher3/Launcher3.apk: now 5759340b
+patch /system/app/Launcher3/arm/Launcher3.odex: now 084f8e87
+patch /system/app/LiveWallpapers/LiveWallpapers.apk: now b0852797
+patch /system/app/LiveWallpapers/arm/LiveWallpapers.odex: now f63851b8
+patch /system/app/LiveWallpapersPicker/LiveWallpapersPicker.apk: now e6c48f8e
+patch /system/app/LiveWallpapersPicker/arm/LiveWallpapersPicker.odex: now 21f53ba2
+patch /system/app/Maps/arm/Maps.odex: now 43dc59fc
+patch /system/app/MsmsStk/MsmsStk.apk: now 54f65a15
+patch /system/app/MsmsStk/arm/MsmsStk.odex: now d59afe91
+patch /system/app/Music/Music.apk: now e237c6a6
+patch /system/app/Music/arm/Music.odex: now 593bd08b
+patch /system/app/NoiseField/arm/NoiseField.odex: now cc0b80fe
+patch /system/app/NoteBook/NoteBook.apk: now 80cc9db2
+patch /system/app/NoteBook/arm/NoteBook.odex: now 7009bac4
+patch /system/app/OpenWnn/OpenWnn.apk: now 0cd962de
+patch /system/app/OpenWnn/arm/OpenWnn.odex: now 1fad53fc
+patch /system/app/PacProcessor/PacProcessor.apk: now c912583a
+patch /system/app/PacProcessor/arm/PacProcessor.odex: now f4b50cf5
+patch /system/app/PackageInstaller/PackageInstaller.apk: now 5fe507c4
+patch /system/app/PackageInstaller/arm/PackageInstaller.odex: now 325df324
+patch /system/app/PhaseBeam/arm/PhaseBeam.odex: now aea7e623
+patch /system/app/PhotoTable/PhotoTable.apk: now 6b193154
+patch /system/app/PhotoTable/arm/PhotoTable.odex: now fb744e0f
+patch /system/app/PicoTts/PicoTts.apk: now 8079077b
+patch /system/app/PicoTts/arm/PicoTts.odex: now ffbc3a45
+patch /system/app/PrintSpooler/PrintSpooler.apk: now 1c1c7774
+patch /system/app/PrintSpooler/arm/PrintSpooler.odex: now 70b33701
+patch /system/app/SGPS/SGPS.apk: now 105634ad
+patch /system/app/SGPS/arm/SGPS.odex: now 2b71871e
+patch /system/app/SimLockSupport/SimLockSupport.apk: now 182fea04
+patch /system/app/SoundRecorder/SoundRecorder.apk: now ec8892bb
+patch /system/app/SoundRecorder/arm/SoundRecorder.odex: now 0ae3409b
+patch /system/app/SprdAppBackup/SprdAppBackup.apk: now eb1dd824
+patch /system/app/SprdAppBackup/arm/SprdAppBackup.odex: now f3c7c102
+patch /system/app/Stk1/Stk1.apk: now 074dcdcb
+patch /system/app/Stk1/arm/Stk1.odex: now d3f29c6e
+patch /system/app/UpdateProvider/arm/UpdateProvider.odex: now d95dd148
+patch /system/app/UserDictionaryProvider/UserDictionaryProvider.apk: now 3375aa4d
+patch /system/app/UserDictionaryProvider/arm/UserDictionaryProvider.odex: now 25c771c4
+patch /system/app/ValidationTools/ValidationTools.apk: now eb1ad499
+patch /system/app/ValidationTools/arm/ValidationTools.odex: now 7def7dcd
+patch /system/app/VisualizationWallpapers/VisualizationWallpapers.apk: now 9b083693
+patch /system/app/VisualizationWallpapers/arm/VisualizationWallpapers.odex: now f3fc9e76
+patch /system/app/WAPPushManager/WAPPushManager.apk: now da702f4d
+patch /system/app/WAPPushManager/arm/WAPPushManager.odex: now 229da9fe
+patch /system/app/WebViewGoogle/arm/WebViewGoogle.odex: now ec30a3a8
+patch /system/app/YouTube/arm/YouTube.odex: now 87222331
+patch /system/bin/autotest: now de84b030
+patch /system/bin/debuggerd: now 109d1cd0
+patch /system/bin/mdnsd: now 84b7462f
+patch /system/bin/modemd: now 0a4f306f
+patch /system/etc/recovery-resource.dat: now b03f6a75
+patch /system/etc/security/otacerts.zip: now 8eb951f6
+patch /system/framework/am.jar: now 577535dd
+patch /system/framework/android.policy.jar: now 352c5d2b
+patch /system/framework/android.test.runner.jar: now 352c5d2b
+patch /system/framework/apache-xml.jar: now 20e46e18
+patch /system/framework/appops.jar: now 577535dd
+patch /system/framework/appwidget.jar: now 577535dd
+patch /system/framework/arm/am.odex: now 053096f3
+patch /system/framework/arm/android.test.runner.odex: now 0e35ae9d
+patch /system/framework/arm/appops.odex: now 1a0842d3
+patch /system/framework/arm/appwidget.odex: now e8db8d3f
+patch /system/framework/arm/bmgr.odex: now caf8a800
+patch /system/framework/arm/boot.art: now 57c75389
+patch /system/framework/arm/boot.oat: now b3415fd2
+patch /system/framework/arm/bu.odex: now ad1f058c
+patch /system/framework/arm/com.android.future.usb.accessory.odex: now dac1ece6
+patch /system/framework/arm/com.android.location.provider.odex: now 5a3888a4
+patch /system/framework/arm/com.android.media.remotedisplay.odex: now dcbe3e7f
+patch /system/framework/arm/com.android.mediadrm.signer.odex: now f0f841dd
+patch /system/framework/arm/com.broadcom.bt.odex: now 7d633f4c
+patch /system/framework/arm/com.google.widevine.software.drm.odex: now f89134ad
+patch /system/framework/arm/content.odex: now 1111a7b7
+patch /system/framework/arm/dpm.odex: now fc1b2c09
+patch /system/framework/arm/ethernet-service.odex: now d25abbcd
+patch /system/framework/arm/ime.odex: now 5f227afb
+patch /system/framework/arm/input.odex: now 8a3d48d1
+patch /system/framework/arm/javax.obex.odex: now 2ec03d3c
+patch /system/framework/arm/media_cmd.odex: now f251b7f0
+patch /system/framework/arm/monkey.odex: now f6764667
+patch /system/framework/arm/pm.odex: now d0ceaa83
+patch /system/framework/arm/requestsync.odex: now 95011390
+patch /system/framework/arm/services.odex: now a84d4a2a
+patch /system/framework/arm/settings.odex: now 64916bde
+patch /system/framework/arm/svc.odex: now b9259493
+patch /system/framework/arm/uiautomator.odex: now 1f41da06
+patch /system/framework/arm/wifi-service.odex: now 2d7ce273
+patch /system/framework/arm/wm.odex: now 6430a477
+patch /system/framework/bmgr.jar: now 577535dd
+patch /system/framework/bouncycastle.jar: now fcb81379
+patch /system/framework/bu.jar: now 577535dd
+patch /system/framework/com.android.future.usb.accessory.jar: now 577535dd
+patch /system/framework/com.android.location.provider.jar: now 577535dd
+patch /system/framework/com.android.media.remotedisplay.jar: now 577535dd
+patch /system/framework/com.android.mediadrm.signer.jar: now 577535dd
+patch /system/framework/com.broadcom.bt.jar: now 8bb15a9f
+patch /system/framework/com.google.widevine.software.drm.jar: now 577535dd
+patch /system/framework/conscrypt.jar: now 46503407
+patch /system/framework/content.jar: now 577535dd
+patch /system/framework/core-junit.jar: now b23ba19e
+patch /system/framework/core-libart.jar: now 8cf3e2af
+patch /system/framework/dpm.jar: now 577535dd
+patch /system/framework/ethernet-service.jar: now 98281909
+patch /system/framework/ext.jar: now 9790bcd0
+patch /system/framework/framework-res.apk: now 42674aab
+patch /system/framework/framework.jar: now 7b7c7ac2
+patch /system/framework/ime.jar: now 577535dd
+patch /system/framework/ims-common.jar: now 8bb15a9f
+patch /system/framework/input.jar: now 577535dd
+patch /system/framework/javax.obex.jar: now 8bb15a9f
+patch /system/framework/media_cmd.jar: now 577535dd
+patch /system/framework/mms-common.jar: now ed37ebb7
+patch /system/framework/monkey.jar: now 352c5d2b
+patch /system/framework/okhttp.jar: now 1116f871
+patch /system/framework/pm.jar: now 7d658772
+patch /system/framework/requestsync.jar: now 577535dd
+patch /system/framework/services.jar: now deed1236
+patch /system/framework/settings.jar: now 577535dd
+patch /system/framework/svc.jar: now 577535dd
+patch /system/framework/telephony-common.jar: now 6541f7ea
+patch /system/framework/telephony-common2.jar: now 848680a9
+patch /system/framework/uiautomator.jar: now 26f24766
+patch /system/framework/voip-common.jar: now 7d658772
+patch /system/framework/wifi-service.jar: now d52a1df1
+patch /system/framework/wm.jar: now 577535dd
+patch /system/lib/libLLVM.so: now f276b474
+patch /system/lib/libmdnssd.so: now b5599dd5
+patch /system/lib/libstagefright_soft_aacdec.so: now 1563cbc1
+patch /system/lib/libstagefright_soft_aacenc.so: now 92c2347e
+patch /system/lib/libstagefright_soft_hevcdec.so: now cf3b8d07
+patch /system/lib/libwebrtc_audio_preprocessing.so: now 1db0040a
+patch /system/preloadapp/VoiceCycle/arm/VoiceCycle.odex: now 590757eb
+patch /system/preloadapp/se_nena_nenamark2_5/arm/se_nena_nenamark2_5.odex: now 58b23da3
+patch /system/priv-app/AndroidForWork/arm/AndroidForWork.odex: now f370c58e
+patch /system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk: now 9e31f085
+patch /system/priv-app/BackupRestoreConfirmation/arm/BackupRestoreConfirmation.odex: now 30c383a8
+patch /system/priv-app/CalendarProvider/CalendarProvider.apk: now 538e43e2
+patch /system/priv-app/CalendarProvider/arm/CalendarProvider.odex: now cff85784
+patch /system/priv-app/CellBroadcastReceiver/CellBroadcastReceiver.apk: now 4d1ad6f1
+patch /system/priv-app/CellBroadcastReceiver/arm/CellBroadcastReceiver.odex: now f0c59657
+patch /system/priv-app/Contacts/Contacts.apk: now 661aa5da
+patch /system/priv-app/Contacts/arm/Contacts.odex: now 1b31982b
+patch /system/priv-app/ContactsProvider/ContactsProvider.apk: now c0b70351
+patch /system/priv-app/ContactsProvider/arm/ContactsProvider.odex: now 57152e2b
+patch /system/priv-app/DefaultContainerService/DefaultContainerService.apk: now 778aac75
+patch /system/priv-app/DefaultContainerService/arm/DefaultContainerService.odex: now ca502786
+patch /system/priv-app/Dialer/Dialer.apk: now 39173cc9
+patch /system/priv-app/Dialer/arm/Dialer.odex: now f24a38d6
+patch /system/priv-app/DownloadProvider/DownloadProvider.apk: now 03c7499b
+patch /system/priv-app/DownloadProvider/arm/DownloadProvider.odex: now 61935e18
+patch /system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk: now 06bc8fcc
+patch /system/priv-app/ExternalStorageProvider/arm/ExternalStorageProvider.odex: now 14e3a3fe
+patch /system/priv-app/FusedLocation/FusedLocation.apk: now 25135faf
+patch /system/priv-app/FusedLocation/arm/FusedLocation.odex: now 2b696a72
+patch /system/priv-app/GmsCore/arm/GmsCore.odex: target 82344084 bytes; free space 86753280 bytes; retry 1; enough 0
+150294528 bytes free on /cache (82339988 needed)
+(now 169099264 bytes free for target) now e6b9aaa2
+patch /system/priv-app/GoogleBackupTransport/arm/GoogleBackupTransport.odex: now ece37b7a
+patch /system/priv-app/GoogleFeedback/arm/GoogleFeedback.odex: now 229dfee2
+patch /system/priv-app/GoogleLoginService/arm/GoogleLoginService.odex: now ea69050c
+patch /system/priv-app/GoogleOneTimeInitializer/arm/GoogleOneTimeInitializer.odex: now 69d9756c
+patch /system/priv-app/GooglePartnerSetup/arm/GooglePartnerSetup.odex: now a6ae178a
+patch /system/priv-app/GoogleServicesFramework/arm/GoogleServicesFramework.odex: now bff55e68
+patch /system/priv-app/InputDevices/InputDevices.apk: now d4ca0da9
+patch /system/priv-app/InputDevices/arm/InputDevices.odex: now 819a20f9
+patch /system/priv-app/ManagedProvisioning/ManagedProvisioning.apk: now 3545cb9a
+patch /system/priv-app/ManagedProvisioning/arm/ManagedProvisioning.odex: now d6296877
+patch /system/priv-app/MediaProvider/MediaProvider.apk: now 60b2431f
+patch /system/priv-app/MediaProvider/arm/MediaProvider.odex: now cfa79446
+patch /system/priv-app/Mms/Mms.apk: now a67d3077
+patch /system/priv-app/Mms/arm/Mms.odex: now c8033a1d
+patch /system/priv-app/MmsService/MmsService.apk: now abb00e78
+patch /system/priv-app/MmsService/arm/MmsService.odex: now e22ab1bf
+patch /system/priv-app/MusicFX/MusicFX.apk: now 4dbfeaed
+patch /system/priv-app/MusicFX/arm/MusicFX.odex: now 464554db
+patch /system/priv-app/Phonesky/arm/Phonesky.odex: now d0654926
+patch /system/priv-app/ProxyHandler/ProxyHandler.apk: now 86d6dfcf
+patch /system/priv-app/ProxyHandler/arm/ProxyHandler.odex: now 2b1d00b6
+patch /system/priv-app/Settings/Settings.apk: now 1f606e85
+patch /system/priv-app/SettingsProvider/SettingsProvider.apk: now 97d0a7a8
+patch /system/priv-app/SettingsProvider/arm/SettingsProvider.odex: now 7eb0a8ac
+patch /system/priv-app/SetupWizard/arm/SetupWizard.odex: now 42da864d
+patch /system/priv-app/SharedStorageBackup/SharedStorageBackup.apk: now 7c32e2f7
+patch /system/priv-app/SharedStorageBackup/arm/SharedStorageBackup.odex: now 524ba1f6
+patch /system/priv-app/Shell/Shell.apk: now 17ca8987
+patch /system/priv-app/Shell/arm/Shell.odex: now b0f99e1d
+patch /system/priv-app/SystemUI/SystemUI.apk: now 203936eb
+patch /system/priv-app/SystemUI/arm/SystemUI.odex: now 899b09fe
+patch /system/priv-app/TeleService/TeleService.apk: now 85ded560
+patch /system/priv-app/TeleService/arm/TeleService.odex: now 3442cc58
+patch /system/priv-app/Telecom/Telecom.apk: now 39539f6a
+patch /system/priv-app/Telecom/arm/Telecom.odex: now 8effd477
+patch /system/priv-app/TelephonyProvider/TelephonyProvider.apk: now 9b9b0760
+patch /system/priv-app/TelephonyProvider/arm/TelephonyProvider.odex: now b707f93a
+patch /system/priv-app/Velvet/arm/Velvet.odex: now 455f07a4
+patch /system/priv-app/VpnDialogs/VpnDialogs.apk: now a56097df
+patch /system/priv-app/VpnDialogs/arm/VpnDialogs.odex: now d43a399a
+patch /system/priv-app/WallpaperCropper/WallpaperCropper.apk: now 74d5a97a
+patch /system/priv-app/WallpaperCropper/arm/WallpaperCropper.odex: now 40ad5719
+patch /system/priv-app/sprdthermal/arm/sprdthermal.odex: now 91ad38dc
+patch /system/priv-app/sprdthermal/sprdthermal.apk: now 9e27eb4a
+patch /system/vital-app/CallFireWall/CallFireWall.apk: now c6995f7f
+patch /system/vital-app/CallFireWall/arm/CallFireWall.odex: now ebfad5b5
+Patching oem files...patch EMMC:/dev/block/platform/sdio_emmc/by-name/boot:8871936:f8e2dfecd085ee1cde97266c10bc482f0f809ade:8871936:f1730b3b63564f5a163e1c403f8807b9f3835285: 
+Patching boot image...
+partition read matched size 8871936 sha f8e2dfecd085ee1cde97266c10bc482f0f809ade
+150294528 bytes free on /cache (8871936 needed)
+now f1730b3b
+  caches dropped
+verification read succeeded (attempt 1)
+Unpacking new system files...
+minzip: Extracted 5 file(s)
+Unpacking new recovery...
+minzip: Extracted 2 file(s)
+Symlinks and permissions...
+Patching remaining system files...patch /system/build.prop: 
+now d9777027
+PackageExtractFileFn :: sleeping after close
+script succeeded: result was [/system]
+
+fota_update_install_finish: status = 0
+2016.12.13 09:55:20  : finish recovery 
+I:Saving locale "en_US"
+I:finish update
